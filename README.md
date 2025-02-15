@@ -8,4 +8,4 @@ If you'd like to contribute to this project (e.g., by suggesting improvements or
 
 ## License
 
-This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
