@@ -1,6 +1,6 @@
-# Tableau Visualizations
+# Data Visualizations
 
-This repository contains a collection of Tableau visualizations showcasing various data analysis projects I've worked on or am currently working on. Each visualization aims to provide insights into their respective datasets.
+This repository contains a collection of data visualizations showcasing various data analysis projects I've worked on or am currently working on. Each visualization aims to provide insights into their respective datasets.
 
 ## Contributing
 
